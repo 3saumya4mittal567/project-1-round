@@ -75,11 +75,11 @@ marquee {
     border-radius: 10px;
     margin-bottom: 20px;
 }
-
 .car h3 {
     font-size: 1.5rem;
     color: #333;
     margin-bottom: 10px;
+    display: flex;
 }
 
 .fuel-type {
@@ -89,6 +89,7 @@ marquee {
     border-radius: 5px;
     font-size: 1rem;
     margin-bottom: 10px;
+
 }
 
 hr {
